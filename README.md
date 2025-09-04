@@ -77,8 +77,8 @@
         <div>
           <div class='photo-wrap'>
             <img id='profilePhoto' class='profile-photo' alt='Profile photo'
-                 src='data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0b1220"/><circle cx="100" cy="72" r="40" fill="#1f2937"/><rect x="35" y="120" width="130" height="60" rx="30" fill="#1f2937"/></svg>'
-                 data-default-src='data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0b1220"/><circle cx="100" cy="72" r="40" fill="#1f2937"/><rect x="35" y="120" width="130" height="60" rx="30" fill="#1f2937"/></svg>'>
+                 src='data:https://github.com/Manishpandey47/manish-portfolio/blob/main/assets/Profile.jpg;utf8,<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0b1220"/><circle cx="100" cy="72" r="40" fill="#1f2937"/><rect x="35" y="120" width="130" height="60" rx="30" fill="#1f2937"/></svg>'
+                 data-default-src='data:https://github.com/Manishpandey47/manish-portfolio/blob/main/assets/Profile.jpg;utf8,<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0b1220"/><circle cx="100" cy="72" r="40" fill="#1f2937"/><rect x="35" y="120" width="130" height="60" rx="30" fill="#1f2937"/></svg>'>
             <div class='photo-actions'>
               <input id='photoInput' type='file' accept='image/*'>
               <button class='btn' id='btnChangePhoto' title='Change profile picture'>Change Photo</button>
